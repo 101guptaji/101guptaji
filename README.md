@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I am Himanshu Gupta👨‍💻.<br>I am a skilled Software Developer with 3+ years of experience in optimizing system performance and building new responsive websites.<br>I have expertise in Java, HTML, CSS, Javascript, and SQL.<br>Currently, I am learning the MERN stack.
+Hi👋, I am Himanshu Gupta👨‍💻.<br>I am a skilled Software Developer with experience in optimizing system performance and building new responsive websites.<br>I have expertise in Java, HTML, CSS, Javascript, and SQL.<br>Currently, I am learning the MERN stack.
 
 
 ## 🌐 Socials:
