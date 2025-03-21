@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi👋, I am Himanshu Gupta👨‍💻.<br>
-- 👔 A skilled Software Developer with experience in optimizing system performance and building new responsive websites.<br>
-- 💗 I have expertise in Java J2EE, HTML, CSS, Javascript, and SQL.<br>
-- ⚡ Currently, I am learning the MERN stack.
-- ✉️ You can reach me on **himanshu.guptaji07@gmail.com** 
+- 👔 I am a detail-oriented and results-driven Software Developer with over three years of experience designing and developing web applications and optimizing system performance.<br>
+- 💗 I have expertise in both front-end and back-end technologies, working extensively with HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, Java, MySQL, and MongoDB.<br>
+- ⚡I am passionate about solving complex problems and learning new things.
+- ✉️ You can reach me at **himanshu.guptaji07@gmail.com** 
 
 
 ## 🌐 Socials:
