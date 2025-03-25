@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi👋, I'm Himanshu Gupta👨.<br>
 - 👨‍💻 A Software engineer with over 3 years of experience designing and developing web applications and optimizing system performance.<br>
-- 💗 I have expertise in both front-end and back-end technologies, working extensively with HTML, CSS, Javascript, MERN, Java, and MySQL.<br>
+- 🔭 I have expertise in both front-end and back-end technologies, working extensively with HTML, CSS, Javascript, MERN, Java, and MySQL.<br>
 - ⚡ I am passionate about solving complex problems and learning new things.
 - 🌱 Currently working as a freelance, contributing to different real-life and open-source projects.
-- ✉️ You can reach me at **himanshu.guptaji07@gmail.com** 
+- 📫 You can reach me at **himanshu.guptaji07@gmail.com** 
 
 
 ## 🌐 Socials:
